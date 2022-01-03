@@ -1,0 +1,12 @@
+wandb/
+*.json
+*dataset*/
+CUB_200_2011/
+stanford_dog*/
+VOC2012*/
+*model*/
+VGG*/
+Annotation/
+.ipynb_checkpoints/
+CAM_*
+*.h5
